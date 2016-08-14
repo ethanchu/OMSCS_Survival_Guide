@@ -89,7 +89,7 @@ will get a lot of helpful suggestions about if you are taking too much.
 
 # Must-Have Websites
 
-Lectures on Udacity
+## Lectures on Udacity
 
 As expected, there are lectures for each class.  Accompanying this is typically
 some sort of "recommended schedule" so you stay up to date with the knowledge
@@ -217,12 +217,12 @@ you're not at least familiar on the surface with the [tools I've mentioned befor
 (git, grep, less, find, etc.) for most classes, you are in the hurtful
 awakening.
 
-If you have never programmed on Linux and your class requires it, you should
+~~If you have never programmed on Linux and your class requires it, you should
 also at least attempt it before the semester.  Windows users can conveniently do
 this by downloading an appropriate Linux image and running it with VirtualBox.
 Mac users can just do a spotlight search for "Terminal" and they are good to go.
 Technically Mac provides BSD-style commands/programs, but most of it is the same
-or very similar to Linux/GNU style commands/programs.
+or very similar to Linux/GNU style commands/programs.~~
 
 _Just go to [HackerRank](https://www.hackerrank.com/domains), and do the "Linux Shell" challenges._
 
@@ -272,7 +272,7 @@ anyways.
 
 If you are on a group project, you will almost undoubtable use git.
 
-If you are working by yourself, you should just use git anyways.
+**If you are working by yourself, you should just use git anyways.**
 
 ## Latex
 
@@ -354,8 +354,7 @@ due to personal schedule constraints, I lost about 10% on a recent assignment
 because I "didn't have time" failed to read the specification completely and
 sufficiently.
 
-"If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes think about solutions." 
-- Albert Einstein
+"If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes think about solutions." - Albert Einstein
 
 
 Develop a schedule and milestones from the specification, noting that you should
@@ -439,11 +438,3 @@ send me a message and I'll answer what I can.
 
 Also, send in material if you have things I didn't think of that helped you and
 I'll add them with appropriate attribution.
-
-# Contributors so far
-- Adam A.
-- Romeo C.
-- Bill M.
-- Tad M.
-- Abhishek T.
-- Ric Y.
